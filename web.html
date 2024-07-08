@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Здесь будет что-то через хз какое время(честно)</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>lodka_coin</title>
 </head>
 <body>
-    <div id="main">
-        <h1>Тут тоже</h1>
-        
+    <nav class="nav">
+        <h1 class="title">LODKA COIN</h1>
+    </nav>
+    <section class="level">
+    </section>
+    <section class="tap_tap">
+        <button class="tap_circle_btn"><div class="tap_circle"><img class="tap_lodka" src="/materials/1671019973_grizly-club-p-lodka-png-6.png" alt=""></div></button>
+    </section>
 </body>
 </html>
