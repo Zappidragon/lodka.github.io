@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    background-image: url(/materials/1662892072_27-furman-top-p-more-gacha-fon-krasivo-28.jpg);
+}
+
+.bg_menu{
+    height: auto;
+}
+
+/* nav */
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 40px;
+}
+
+/* level */
+
+.level{
+    height: 200px;
+}
+
+/* tap tap */
+
+.tap_tap{
+    height: 400px;
+    display: grid;
+    place-items: center;
+}
+
+.tap_circle{
+    height: 235px;
+    width: 235px;
+    border-radius: 50%;
+    backdrop-filter: blur(5px);
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.tap_lodka{
+    display: flex;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.tap_circle_btn{
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0);
+}
