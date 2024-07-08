@@ -14,7 +14,7 @@
     <section class="level">
     </section>
     <section class="tap_tap">
-        <button class="tap_circle_btn"><div class="tap_circle"><img class="tap_lodka" src="/materials/1671019973_grizly-club-p-lodka-png-6.png" alt=""></div></button>
+        <button class="tap_circle_btn"><div class="tap_circle"><img class="tap_lodka" src="1671019973_grizly-club-p-lodka-png-6.jpg" alt=""></div></button>
     </section>
 </body>
 </html>
